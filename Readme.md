@@ -5,7 +5,7 @@ It is based on Tensorflow Object Detection API: https://github.com/tensorflow/mo
 For installation refer to: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 ## Summary
 This project detects different types vehicles (Cars, Motorcycles, Trucks, Buses) in a picture and calculates the level of pollutants (CO, CO2, HC, PM) using their Emission Factors.<br>
-<b>Jupyter Notebook : </b>![notebook](/object_detection/pollution_detection.ipynb)
+<b>Jupyter Notebook : </b> (/object_detection/pollution_detection.ipynb)
 ## Screenshot
 ![Screenshot](/object_detection/screenshot.png)
 
