@@ -4,7 +4,7 @@ For installation refer to: https://github.com/tensorflow/models/blob/master/rese
 
 This project detects different types vehicles (Cars, Motorcycles, Trucks, Buses) in a picture and calculates the level of pollutants (CO, CO2, HC, PM) using their Emission Factors.
 
-![Screenshot](https://github.com/vkasojhaa/Pollution-Detection-Tensorflow/tree/object_detection/screenshot.jpg)
+![Screenshot](object_detection/screenshot.PNG)
 
 
 
