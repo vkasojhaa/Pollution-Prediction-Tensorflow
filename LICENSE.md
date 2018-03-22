@@ -1,4 +1,4 @@
-License 2018
+License 2018, All rights reserved.
 All the content, concept, codes and any other details are copyright protected.
 The copyright on project concept is held by Dr. Prabhas K. Yadav and Vikas Kumar Ojha and all other contents including the code is held by Vikas Kumar Ojha and Sushant Bindra.
 Any use of content here must be with the consent of all the copyright holders.
